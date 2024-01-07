@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Consumindo a [PokeApi](https://pokeapi.co)
+Consumindo a [PokeApi](https://pokeapi.co).
